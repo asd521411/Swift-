@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.2)
+  - GrowingTextView (0.7.0)
+  - Kingfisher (4.10.1)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - GrowingTextView
+  - Kingfisher
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - GrowingTextView
+    - Kingfisher
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  GrowingTextView: b946b0d1c33e0953725b9695d14f144cc35b2031
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: bf70ae46168edd66a74b5815941c3a85e23828f6
+
+COCOAPODS: 1.7.3
